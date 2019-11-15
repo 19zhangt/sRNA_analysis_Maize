@@ -1,0 +1,44 @@
+Samples	isomiRs_events	PCGs	TEs	UIs
+Anther	3619	40	61	110
+Ear_6week	907	19	36	82
+Ear_8week	1155	22	46	86
+Ear_9week	3381	35	57	117
+Ear_10week	1029	18	35	64
+Early prophase meiocytes	1890	31	53	93
+Embryo_1d	2457	43	58	118
+Embryo_3week	1254	17	32	69
+Embryo_9DAP	2196	44	53	117
+Embryo_15DAP	2259	41	57	119
+Embryo_20DAP	1533	23	44	99
+Endosperm_9DAP	1191	29	44	95
+Endosperm_15DAP	2459	36	49	108
+Endosperm_20DAP	2685	38	52	106
+Leaf1_2week	5823	77	79	148
+Leaf2_2week	2238	58	62	121
+Leaf1_3week	2484	47	62	110
+Leaf2_3week	2195	47	64	117
+Leaf3_3week	1107	33	53	106
+Leaf_4week	1442	21	49	97
+Leaf_5week	1132	15	39	76
+Leaf_6week	2180	38	58	105
+Leaf_9week	2805	62	64	126
+Leaf_expanded_4week	2815	47	76	122
+Leaf_immature_5week	3528	44	72	132
+Leaf_mature_5week	2861	47	71	129
+Leaf_wrapped_4week	2197	35	66	115
+Pollen_early	540	14	39	78
+Pollen_germination	800	19	38	61
+Pollen1_mature	1239	19	46	71
+Pollen2_mature	605	18	34	72
+Root1_2week	2367	59	61	124
+Root2_2week	3261	49	65	119
+Seed	2125	41	58	102
+Shoot apical meristem_4week	2451	28	51	100
+Stalk_2week	3801	70	74	147
+Silk_9week	2459	48	61	126
+Silk_11week	2873	54	67	130
+Silk_12week	3142	50	69	136
+Tassel_4week	1575	24	44	98
+Tassel_8week	1086	18	41	71
+Tassel_9week	2723	56	63	134
+Vegetative apex_2week	1585	23	40	85

@@ -1,0 +1,6 @@
+@phase:24
+@pval:1e-05
+@collapsedfile:./summary_phasiRNAs_24/24PHAS_p1e-05_collapsed.txt
+@collapsedlist:./summary_phasiRNAs_24/24PHAS_p1e-05_collapsed.list
+@summaryfile:./summary_phasiRNAs_24/24PHAS_p1e-05_summary.txt
+@phasifile:././summary_phasiRNAs_24/24PHAS_p1e-05_clust_thres0.85_phasi.csv

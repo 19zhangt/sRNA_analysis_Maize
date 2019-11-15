@@ -1,0 +1,8 @@
+Anther	Ear_6week	Ear_8week	Ear_9week	Ear_10week	Early prophase meiocytes	Embryo_1d	Embryo_3week	Embryo_9DAP	Embryo_15DAP	Embryo_20DAP	Endosperm_9DAP	Endosperm_15DAP	Endosperm_20DAP	Leaf1_2week	Leaf2_2week	Leaf1_3week	Leaf2_3week	Leaf3_3week	Leaf_4week	Leaf_5week	Leaf_6week	Leaf_9week	Leaf_expanded_4week	Leaf_immature_5week	Leaf_mature_5week	Leaf_wrapped_4week	Pollen_early	Pollen_germination	Pollen1_mature	Pollen2_mature	Root1_2week	Root2_2week	Seed	Shoot apical meristem_4week	Stalk_2week	Silk_9week	Silk_11week	Silk_12week	Tassel_4week	Tassel_8week	Tassel_9week	Vegetative apex_2week
+zma-MIR2275_N1	751.49	0	0	0	0	973.56	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10.4	0
+zma-MIR2275_N2	1054.14	0	0	0	0	161.07	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3.38	0	0	2.13	0	0	0	0	0	0	0	0	0	0	0	0
+zma-MIR2275_N3	1594.8	0	0	0	0	1137.63	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10.4	0
+zma-MIR2275b	6207.73	0	0	0.3	0	4162.78	0	0	0	0	0	0	0	0	0.36	0	0	0	0	0	0	0	0	1.91	3.93	5	1.35	0	0	0	0	0	0	0	0.93	1.49	0	0	0	0	6.99	0.91	0.41
+zma-MIR2275a	964.03	0	0	0	0	550.74	0	0	0	0	0	0	1.67	0	0.4	0	0	0	0	1.13	0	0	0	0	1.46	0.64	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5.13	0	0
+zma-MIR2275_N4	356.01	0	0	0	0	226.96	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4.42	0	0	0	0	0	0	0	0	0	0	0	0	0	7.18	0
+zma-MIR2275c	3708.19	0	0	0	0	1898.64	0	0	0	0	0	0	0	0	0.36	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0.22	0	0	0	0	0	0	0	0

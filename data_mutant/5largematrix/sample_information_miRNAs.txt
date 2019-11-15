@@ -1,0 +1,8 @@
+SRR1917157	dcl_wt
+SRR1917158	dcl_wt
+SRR1917159	dcl1-2_mutant
+SRR1917160	dcl1-2_mutant
+SRR1917165	dcl1-2_dcl4-3_mutant
+SRR1917166	dcl1-2_dcl4-3_mutant
+SRR1917167	dcl1-2_dcl4-2_mutant
+SRR1917168	dcl1-2_dcl4-2_mutant
